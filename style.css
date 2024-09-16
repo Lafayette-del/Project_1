@@ -1,0 +1,140 @@
+div {
+    font-style: italic;
+    font-size: 130%;
+}
+img {
+    background-size: cover;
+}
+
+  h2 {
+    text-align: center;
+  }
+.carousel-image {
+    width: 100%;
+  height: fit-content;
+}
+.NAVbar {
+    color: coral;
+    text-align: justify;
+    background-color: #070707;
+}
+.my-custom-button {
+    background-color: #ff8c00; 
+    color: #FFFFFF; /* White */
+  }
+.body {
+    background: #0a0a0a;
+  }
+  
+.ratings i {
+    color: green;
+  }
+  
+.install span {
+    font-size: 12px;
+  }
+  
+.col-md-4 {
+    margin-top: 27px;
+  }
+
+  @import url('https://fonts.google.com/specimen/Roboto+Slab?query=roboto+slab');
+
+
+body{
+	background: #f1f5f5;
+	font-family: Arial, Helvetica , sans-serif;
+}
+.card{
+	border: none;
+	border-radius: 0;
+	width: 550px;
+	box-shadow: 0 0 5px rgba(246, 124, 3, 0.1)
+}
+.text-muted{
+	font-weight: 500!important;
+
+	font-size: 12px;
+	color: #6c757dcc!important;
+}
+h2{
+	color: #ec850e;
+	padding: 10px 0 20px;
+	font-family: Roboto Slab!important;
+	font-weight: bold;
+}
+.form-group{
+	margin-top: 20px;
+}
+.first{
+	margin-top: 0!important;
+}
+.form-control{
+	border-radius: 0;
+}
+.form-group label{
+	font-size: 9px;
+	font-weight: bold;
+}
+.form-group span{
+	color: rgb(255,0,0);
+}
+.form-control:focus{
+	border: 1.5px solid #adb5bd;
+	border-radius: 0;
+	box-shadow: none;
+	background: #ff000012;
+	letter-spacing: 1px;
+	color: #187e5f;
+}
+.form-check-label{
+	font-size: 9px;
+	font-weight: bold;
+}
+.btn-block{
+	border-radius:0;
+	border: none;
+	background: rgb(239, 161, 6);
+	margin-top: 10px;
+	padding-top: 0px;
+	background: #edf0f0;
+}
+.btn-block:hover{
+	background: #030303;;
+}
+.btn-block:focus{
+	box-shadow: none;
+	background: #060606!important;
+}
+.btn-primary span{
+	font-size: 12px;
+}
+
+.val_error{
+	color: #dc3545;
+	font-size: 10px;
+	padding-top: 5px;
+	font-weight: bold;
+}
+
+h5 {
+    text-decoration: underline;
+    color: #030303;
+}
+h3 {
+    text-shadow: #edf0f0;
+    text-align: center;
+    text-decoration: underline;
+}
+*{
+    padding:0;
+    margin:0;
+}
+
+.wrapper{
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background-color:#eee;
+}
