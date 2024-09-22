@@ -143,3 +143,8 @@ h3 {
 .rounded {
     width: 500px;
 }
+.list-group-item {
+	text-align: center;
+	color: black;
+	background-color: #ec850e;
+}
