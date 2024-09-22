@@ -139,3 +139,7 @@ h3 {
     align-items:center;
     background-color:#eee;
 }
+
+.rounded {
+    width: 500px;
+}
